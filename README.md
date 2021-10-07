@@ -1,6 +1,6 @@
 # Face-Regonisition-using-KNN
 
-
+![](https://github.com/deepakrajkranti/Face-Regonisition-using-KNN/blob/main/pic2.png)
 
 Face detection is a computer vision technology that helps to locate/visualize human faces in digital images. This technique is a specific use case of object detection technology that deals with detecting instances of semantic objects of a certain class (such as humans, buildings or cars) in digital images and videos. With the advent of technology, face detection has gained a lot of importance especially in fields like photography, security, and marketing.
 
@@ -63,3 +63,6 @@ Haar feature-based cascade classifiers
 2. 'Integral Images' concept
 3. 'Adaboost': to improve classifier accuracy
 4. Using 'Cascade of Classifiers' Face Detection with OpenCV-Python
+
+![](https://github.com/deepakrajkranti/Face-Regonisition-using-KNN/blob/main/Screenshot%20(217).png)
+![](https://github.com/deepakrajkranti/Face-Regonisition-using-KNN/blob/main/Screenshot%20(218).png)
